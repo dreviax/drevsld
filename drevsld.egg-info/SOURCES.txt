@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+drevsld/__init__.py
+drevsld/drevload.py
+drevsld.egg-info/PKG-INFO
+drevsld.egg-info/SOURCES.txt
+drevsld.egg-info/dependency_links.txt
+drevsld.egg-info/entry_points.txt
+drevsld.egg-info/requires.txt
+drevsld.egg-info/top_level.txt
